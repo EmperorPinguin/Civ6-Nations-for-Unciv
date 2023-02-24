@@ -65,7 +65,7 @@
 {
 		"name": "Eagle Warrior",
 		"replaces": "Warrior",
-		"uniqueTo": "Aztecs",
+		"uniqueTo": "The Aztec",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 11,

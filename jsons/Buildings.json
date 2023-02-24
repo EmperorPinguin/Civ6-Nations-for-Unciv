@@ -41,7 +41,7 @@
 {
 		"name": "Tlachtli",
 		"replaces": "Colosseum",
-		"uniqueTo": "Aztecs",
+		"uniqueTo": "The Aztec",
 		"maintenance": 1,
 		"happiness": 2,
 		"culture": 1,
