@@ -139,17 +139,18 @@
 	},
 {
 		"name": "Crouching Tiger",
+		"replaces": "Crossbowman",
 		"uniqueTo": "China",
 		"unitType": "Ranged Gunpowder",
-		"movement": 2,
 		"range": 1,
-		"strength": 12,
+		"movement": 2,
+		"strength": 13,
 		"rangedStrength": 24,
-		"cost": 100,
-		"requiredTech": "Physics",
-		"obsoleteTech": "Chemistry",
-		"upgradesTo": "Cannon",
-		"attackSound": "cannon"
+		"cost": 90,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "arrow"
 	},
 {
 		"name": "Okihtcitaw",
