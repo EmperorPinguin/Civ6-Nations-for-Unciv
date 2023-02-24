@@ -7,7 +7,7 @@
 		"requiredBuilding": "Museum",
 		"maintenance": 3,
 		"requiredTech": "Radio",
-		"uniques": ["[+67]% [Culture] [in this city]","Destroyed when the city is captured"]
+		"uniques": ["[+50]% [Culture] [in this city]","Destroyed when the city is captured"]
 	},
 {
 		"name": "Madrasa",
@@ -168,6 +168,7 @@
 		"production": 1,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
+		"uniques": ["Can be build in all cities"],
 		"requiredTech": "The Wheel"
 	},
 	{
@@ -293,7 +294,7 @@
 		"replaces": "Market",
 		"uniqueTo": "Poland",
 		"gold": 3,
-		"production": 2,
+		"production": 1,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 0,
 		"percentStatBonus": {"gold": 25},
@@ -353,7 +354,7 @@
 		"hurryCostModifier": 25,
 		"gold": 2,
 		"maintenance": 0,
-		"cost": 50,
+		"cost": 75,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
