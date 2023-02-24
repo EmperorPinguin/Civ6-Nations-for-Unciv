@@ -27,6 +27,17 @@
 		"shortcutKey": "M"
 	},
 {
+		"name": "Rock-Hewn Church",
+		"uniqueTo": "Ethiopia",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"faith": 1,
+		"turnsToBuild": 7,
+		"uniques": ["[+1 faith] for each adjacent [Hill]",
+				"[-1 Faith] for each adjacent [Rock-Hewn Church]"],
+		"techRequired": "Drama and Poetry",
+		"shortcutKey": "M"
+	},
+{
 		"name": "Chateau",
 		"uniqueTo": "France",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland"],

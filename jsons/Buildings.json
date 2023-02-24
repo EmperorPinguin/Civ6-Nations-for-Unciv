@@ -88,21 +88,6 @@
 		"requiredTech": "Compass"
 	},
 {
-		"name": "Rock-Hewn Church",
-		"replaces": "Stone Works",
-		"uniqueTo": "Ethiopia",
-		"happiness": 1,
-		"production": 1,
-		"requiredNearbyImprovedResources": ["Marble", "Stone"],
-		"maintenance": 1,
-		"hurryCostModifier": 0,
-		"uniques": ["Must not be on [Plains]",
-			"[+1 Production] from [Stone] tiles [in this city]",
-			"[+1 Production] from [Marble] tiles [in this city]",
-			"[+2 Faith] from [Quarry] tiles [in this city]"],
-		"requiredTech": "Calendar"
-	},
-{
 		"name": "Oppidum",
 		"replaces": "Stone Works",
 		"uniqueTo": "Gaul",
