@@ -1042,7 +1042,7 @@
 		"outerColor": [246,252,255],
 		"innerColor": [6,84,206],
 		"uniqueName": "Scottish Enlightenment",
-		"uniques": ["[+5]% [Science] <while the empire is happy>","[+5]% [Production] <while the empire is happy>"],
+		"uniques": ["[+10]% [Science] <while the empire is happy>"],
 		"cities": ["Stirling","Edinburgh","Aberdeen","Roxburgh","Haddington","Dumfries","Dundee","Ayr","Cullen","Dumbarton",
 			"Scone","Forres","Montrose","Wigtown","Peairt","Selkirk","Peebles","Forfar","Berwick-upon-Tweed","Galashiels",
 			"Elgin","Glasgow","Saint Andrews","Inverness","Cumbernauld","Dunfermline","Linlithgow","Prestwick","Cupar","Clackmannan",
