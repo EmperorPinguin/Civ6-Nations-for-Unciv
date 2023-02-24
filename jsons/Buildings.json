@@ -378,14 +378,14 @@
 {
 		"name": "Chinese Wall",
 		"replaces": "Walls",
-		"cost": 75,
+		"cost": 65,
+		"gold": 2,
 		"uniqueTo": "China",
-		"cityStrength": 7,
-		"cityHealth": 70,
+		"cityStrength": 8,
+		"cityHealth": 50,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["[+1 Gold] from [Trading post] tiles [in this city]",
-				"Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured"]
 	},
 {
 		"name": "Thanh",
