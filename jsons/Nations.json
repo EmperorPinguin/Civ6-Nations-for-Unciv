@@ -1089,7 +1089,6 @@
 		"uniqueName": "Treasure Fleet",
 		"uniques": [
 "[+1 Production, +3 Gold, +2 Faith] from each Trade Route <after adopting [Mercantilism]>", 
-"[+1 Production, +3 Gold, +2 Faith] from each Trade Route <on foreign continents> <after adopting [Mercantilism]>",
 "[+25]% Production when constructing [All] buildings [in all cities] <on foreign continents>"
 ],
 		"cities": ["Barcelona","Madrid","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
