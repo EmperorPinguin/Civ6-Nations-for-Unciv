@@ -101,7 +101,7 @@
 		"name": "Brazil",
 		"leaderName": "Pedro II",
 		"adjective": ["Brazilian"],
-		"startBias": ["Jungle"],
+		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Cultural",
 	
 		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed.",

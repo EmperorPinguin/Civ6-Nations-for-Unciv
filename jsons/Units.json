@@ -119,7 +119,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]","Can [Spread Religion] [1] times","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can [Spread Religion] [1] times","Earn [100]% of killed [Military] unit's [Strength] as [Faith]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse"
 	},
 {
