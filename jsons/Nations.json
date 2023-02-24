@@ -910,8 +910,8 @@
 		"innerColor": [205,0,1],
 		"uniqueName": "Sartrapies",
 		"uniques": [
-"[+1 Hapiness] [in pupetted cities]",
-"[+1 Hapiness] [in annexed cities]",
+"[+1 Happiness] [in pupetted cities]",
+"[+1 Happiness] [in annexed cities]",
 "[-50]% maintenance on road & railroads"
 ],
 		"cities": ["Parsagadae","Persepolis","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
@@ -1216,7 +1216,7 @@
 		"innerColor": [1, 42, 108],
 		"uniqueName": "Casa da India",
 		"uniques": [
-"[+50]% [Gold] from Trade Routes <in [Coastal tiles>"
+"[+50]% [Gold] from Trade Routes <in [Coastal] tiles>"
 ],
 		"cities": ["Lisbon"]
 	},

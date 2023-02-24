@@ -1,8 +1,8 @@
 [
-	{
-		"name": "Free Promotion",
-		"uniques": ["This Unit upgrades for free"]
-	},
+//	{
+//		"name": "Free Promotion",
+//		"uniques": ["This Unit upgrades for free"]
+//	},
 	{
 		"name": "Killer of Cyrus",
 		"uniques": ["[+30]% Strength <vs [Wounded] units>","Heals [30] damage if it kills a unit"]
