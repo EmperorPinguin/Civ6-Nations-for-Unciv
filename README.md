@@ -1,2 +1,1 @@
-# Civ6-Nations-for-Unciv
-Adds new nations for G&amp;K, loosely based on those from Civ6.
+Adapts Civ6 nations do be used for regular Unciv

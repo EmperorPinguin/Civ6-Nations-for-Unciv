@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Free Promotion",
+		"uniques": ["This Unit upgrades for free"]
+	},
+	{
+		"name": "Killer of Cyrus",
+		"uniques": ["[+30]% Strength <vs [Wounded] units>","Heals [30] damage if it kills a unit"]
+	},
+	{
+		"name": "Homeland Defender",
+		"uniques": ["[+33]% Strength <in [Forest] tiles> <when fighting in [Friendly Land] tiles>",
+				"[+33]% Strength <in [Jungle] tiles> <when fighting in [Friendly Land] tiles>",
+				"Double movement in [Forest] <when fighting in [Friendly Land] tiles>",
+				"Double movement in [Jungle] <when fighting in [Friendly Land] tiles>"]
+	},
+	{
+		"name": "[Malon Raider] ability",
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>","No movement cost to pillage"]
+	},
+]
