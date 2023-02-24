@@ -736,7 +736,7 @@
 		"replaces": "Musketman",
 		"uniqueTo": "Scotland",
 		"movement": 2,
-		"strength": 24,
+		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
