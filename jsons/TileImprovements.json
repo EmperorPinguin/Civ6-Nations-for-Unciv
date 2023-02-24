@@ -32,7 +32,8 @@
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"faith": 1,
 		"turnsToBuild": 7,
-		"uniques": ["[+1 faith] for each adjacent [Hill]",
+		"uniques": ["[+1 Faith] for each adjacent [Hill]",
+				"[+1 Faith] for each adjacent [Mountain]",
 				"[-1 Faith] for each adjacent [Rock-Hewn Church]"],
 		"techRequired": "Drama and Poetry",
 		"shortcutKey": "M"
