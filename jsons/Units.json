@@ -783,7 +783,7 @@
 		"cost": 56,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques" : ["No defensive terrain bonus","Rough terrain penalty","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques" : ["No defensive terrain bonus","Rough terrain penalty"],
 		"attackSound": "nonmetalhit"
          },
 {

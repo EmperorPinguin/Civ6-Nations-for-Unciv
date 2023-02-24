@@ -1115,8 +1115,7 @@
 		"innerColor": [254,129,19],
 		"uniqueName": "Epic Quest",
 		"uniques": [
-"Receive triple Gold from Barbarian encampments and pillaging Cities",
-"[-50]% City-State Influence degradation"
+"When conquering an encampment, earn [50] Gold and recruit a Barbarian unit <with [100]% chance>"
 ],
 		"cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab",
 			"Isin","Hamazi","Larak","Abu Salabikh","Umma","Larsa","Girsu","Jemdet Nasr","Nina","Kuara",
