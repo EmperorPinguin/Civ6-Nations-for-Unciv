@@ -781,7 +781,7 @@
 		"unitType": "Sword",
 		"movement": 4,
 		"strength": 12,
-		"cost": 56,
+		"cost": 48,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques" : ["No defensive terrain bonus","Rough terrain penalty"],
