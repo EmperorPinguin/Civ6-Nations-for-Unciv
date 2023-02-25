@@ -215,7 +215,7 @@
 		"uniqueTo": "Ethiopia",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 27,
+		"strength": 28,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
@@ -771,7 +771,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["[+25]% Strength when stacked with [Missionary]","[+25]% Strength when stacked with [Inquisitor]"],
+		"uniques": ["Can [Spread Religion] [1] times","[+25]% Strength when stacked with [Missionary]","[+25]% Strength when stacked with [Inquisitor]"],
 		"attackSound": "shot"
 	},
 {
