@@ -551,7 +551,7 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"promotions": ["Charge"],
+		"promotions": ["[Hul'che] ability"],
 		"attackSound": "arrow"
 	},
 {
@@ -696,7 +696,7 @@
 		"movement": 5,
 		"strength": 28,
 		"cost": 185,
-		"requiredTech": "Economics",
+		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Shock I","Formation I"],

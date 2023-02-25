@@ -42,6 +42,15 @@
 		"name": "[Samurai] ability",
 		"uniques": ["Damage is ignored when determining unit Strength"],
 	},
+	{
+		"name": "[Hul'che] ability",
+		"uniques": ["[+33]% Strength <vs [Wounded] units> <when attacking>"],
+	},
+	{
+		"name": "Polder ability",
+		"uniques": ["Can construct [Polder]"],
+	},
+
 
 
 ]

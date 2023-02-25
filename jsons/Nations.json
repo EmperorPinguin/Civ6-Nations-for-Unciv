@@ -834,6 +834,7 @@
 "[+2 Production] from every [Manufactory] <in [River] tiles>",
 "[+2 Science] from every [Academy] <in [River] tiles>",
 "[+2 Culture] from every [Landmark] <in [River] tiles>",
+"[Work Boats] units gain the [Polder ability] promotion",
 ],
 		"cities": ["Amsterdam","Rotterdam","Utrecht","Groningen","Breda","Nijimegen","Den Haag","Haarlem","Arnhem","Zutphen",
 			"Maastricht","Tilburg","Eindhoven","Dordrecht","Leiden","Hertogenbosch","Almere","Alkmaar","Brielle","Vlissingen",
