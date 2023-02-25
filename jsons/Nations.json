@@ -283,7 +283,7 @@
 		"outerColor": [248,217,2],
 		"innerColor": [21,108,49],
 		"uniqueName": "Aksumite Legacy",
-		"uniques": ["[-25]% Faith cost of generating Great Prophet equivalents","[Faith] cost of purchasing items in cities [-25]%","[+10]% Strength <for [Land] units> <when fighting in [Hill] tiles>"],
+		"uniques": ["May buy [Science] buildings with [Faith] for [2] times their normal Production cost","[+10]% Strength <for [Land] units> <when fighting in [Hill] tiles>"],
 		"cities": ["Addis Ababa","Gondar","Harar","Axum","Adwa","Lalibela","Mekele","Dessie","Jimma","Sodo","Dire Dawa","Adigrat",
 			"Weldiya","Ankober","Alamata","Yirgalem","Gore","Negele Borana","Ginir","Debarq","Nejo","Debre Berhan",
 			"Abiy Addi","Mersa","Soqota","Sayint Ajebar","Chencha","Antalo","Yifat","Dabat","Debre Sina"]
