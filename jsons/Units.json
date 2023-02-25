@@ -191,8 +191,8 @@
 		"cost": 150,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I"],
-		"uniques": ["May capture killed [Water] units","Ignores Zone of Control"],
+		"promotions": ["Supply","Coastal Raider I"],
+		"uniques": ["May capture killed [Water] units"],
 		"attackSound": "cannon"
 	},
 {
@@ -201,12 +201,12 @@
 		"uniqueTo": "England",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 34,
+		"strength": 35,
 		"cost": 225,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"uniques": ["[+30]% Strength <when fighting in [Foreign Land] tiles>"],
+		"uniques": ["[+33]% Strength <on foreign continents>"],
 		"attackSound": "shot"
 	},
 {
@@ -219,8 +219,8 @@
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["[+1] Sight","Double movement in [Hill]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Formation I"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Oromo Cavalry] ability","Formation I"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
@@ -231,11 +231,12 @@
 		"uniqueTo": "France",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 38,
+		"strength": 34,
 		"cost": 225,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
+		"uniques": ["[+45]% Strength decreasing with distance from the capital"],
 		"promotions": ["Great Generals II"],
 		"attackSound": "shot"
 	},
@@ -249,7 +250,8 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques": ["[+33]% Strength <vs [Melee] units>","May upgrade to [Spearman] through ruins-like effects"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"promotions": ["[Gaesatae] ability"],
 		"attackSound": "nonmetalhit"
 	},
 {
@@ -264,7 +266,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["[+25]% Strength <when fighting in [Hill] tiles>","Double movement in [Hill]"],
+		"promotions": ["[Khevsur] ability"],
 		"attackSound": "metalhit"
 	},
 {
@@ -278,7 +280,8 @@
 		"cost": 290,
 		"requiredTech": "Refrigeration",
 		"upgradesTo": "Nuclear Submarine",
-		"uniques": ["[+1] Sight","[+33]% Strength <when fighting in [Ocean] tiles>","[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
+		"promotions": ["[U-boat] ability"],
 		"attackSound": "torpedo"
 	},
 {
@@ -423,7 +426,8 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"requiredResource": "Iron",
-		"uniques": ["Damage is ignored when determining unit Strength","Upgrades to Rifleman"]
+		"uniques": ["Upgrades to Rifleman"]
+		"promotions": ["[Samurai] ability"],
 		"attackSound": "metalhit"
 	},
 {
@@ -438,7 +442,7 @@
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Never appears as a Barbarian unit"],
+		"uniques": ["[+1] Sight","[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","Never appears as a Barbarian unit"],
 		"attackSound": "throw"
 	},
 {
@@ -514,9 +518,10 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles","Can build [Fort] improvements on tiles"],
+		"uniques": ["Can build [Fort] improvements on tiles"],
+		"promotions": ["Haka War Dance"],
 		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
+		"attackSound": "nonmetalhit"
 	},
 {
 		"name": "Malon Raider",
@@ -546,7 +551,7 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"uniques": ["[+33]% Strength <vs [Wounded] units>"],
+		"promotions": ["Charge"],
 		"attackSound": "arrow"
 	},
 {
@@ -573,7 +578,6 @@
 		"strength": 12,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles"],
 		"promotions": ["Coastal Raider I"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
@@ -616,13 +620,14 @@
 		"unitType": "Archery",
 		"uniqueTo": "Nubia",
 		"replaces": "Archer",
-		"movement": 3,
+		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 9,
 		"cost": 48,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
+		"promotions": ["Mobility"],
 		"attackSound": "arrow"
 	},
 {
@@ -691,7 +696,7 @@
 		"movement": 5,
 		"strength": 28,
 		"cost": 185,
-		"requiredTech": "Metallurgy",
+		"requiredTech": "Economics",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Shock I","Formation I"],
@@ -711,7 +716,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"promotions": ["[Legion] ability"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -727,7 +732,8 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Cossack] ability"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse"
 	},
 {
@@ -792,13 +798,13 @@
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Sweden",
-		"movement": 3,
+		"movement": 2,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"promotions": ["Formation I"],
+		"promotions": ["Formation I","Mobility"],
 		"attackSound": "shot"
 	},
 	{
