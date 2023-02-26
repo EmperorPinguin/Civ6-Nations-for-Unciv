@@ -828,6 +828,13 @@ BuildingIcons/Mbanza
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Mbanza
+  rotate: false
+  xy: 916, 318
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Mission
   rotate: false
   xy: 1336, 1290
@@ -919,7 +926,7 @@ BuildingIcons/Tsikhe
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Terrace farm
+ImprovementIcons/Terrace Farm
   rotate: false
   xy: 268, 1498
   size: 256, 256
