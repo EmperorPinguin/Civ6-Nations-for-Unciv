@@ -174,7 +174,7 @@
 		"shortcutKey": "F"
 	}
 {
-		"name": "Ziggurath",
+		"name": "Ziggurat",
 		"uniqueTo": "Sumeria",
 		"terrainsCanBeBuiltOn": ["Flood plains"],
 		"science": 2,

@@ -31,7 +31,7 @@
 		"uniques": ["[+33]% Strength <vs [Melee] units>",],
 	},
 	{
-		"name": "[U-boat] ability",
+		"name": "[U-Boat] ability",
 		"uniques": ["[+1] Sight","[+33]% Strength <when fighting in [Ocean] tiles>"],
 	},
 	{

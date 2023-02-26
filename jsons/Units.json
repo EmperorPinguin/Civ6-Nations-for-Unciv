@@ -281,7 +281,7 @@
 		"requiredTech": "Refrigeration",
 		"upgradesTo": "Nuclear Submarine",
 		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
-		"promotions": ["[U-boat] ability"],
+		"promotions": ["[U-Boat] ability"],
 		"attackSound": "torpedo"
 	},
 {
