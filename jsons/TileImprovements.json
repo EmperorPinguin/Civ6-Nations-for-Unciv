@@ -43,7 +43,8 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"uniques": ["[+1 Gold, +1 Culture] for each adjacent [Luxury resource]",
-				"[+1 Gold] <after discovering [Flight]>"],
+				"[+1 Gold] <after discovering [Flight]>",
+ 				"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Chateau] tiles>"],
 		"techRequired": "Chivalry",
 		"shortcutKey": "M"
 	},
