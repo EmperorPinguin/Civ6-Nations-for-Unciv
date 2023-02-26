@@ -362,18 +362,6 @@
 		"requiredTech": "Drama and Poetry"
 	},
 {
-		"name": "Chinese Wall",
-		"replaces": "Walls",
-		"cost": 65,
-		"gold": 2,
-		"uniqueTo": "China",
-		"cityStrength": 8,
-		"cityHealth": 50,
-		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured"]
-	},
-{
 		"name": "Thanh",
 		"replaces": "Barracks",
 		"uniqueTo": "Vietnam",

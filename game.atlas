@@ -381,51 +381,44 @@ BuildingIcons/Broadcast Center
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Chinese Wall
-  rotate: false
-  xy: 1890, 1808
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Copacabana
   rotate: false
-  xy: 532, 916
+  xy: 376, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Water Park
   rotate: false
-  xy: 532, 916
+  xy: 376, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cothon
   rotate: false
-  xy: 848, 1136
+  xy: 740, 1124
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Royal Navy Dockyard
   rotate: false
-  xy: 848, 1136
+  xy: 740, 1124
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Electronics Factory
   rotate: false
-  xy: 221, 436
+  xy: 320, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Film Studio
   rotate: false
-  xy: 428, 544
+  xy: 329, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -649,21 +642,28 @@ ImprovementIcons/Chemamull
   index: -1
 ImprovementIcons/Copacabana
   rotate: false
-  xy: 640, 916
+  xy: 532, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Dam
   rotate: false
-  xy: 1008, 1652
+  xy: 956, 1136
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Golf Course
   rotate: false
-  xy: 700, 700
+  xy: 692, 808
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Great Wall
+  rotate: false
+  xy: 536, 592
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -922,7 +922,7 @@ NationIcons/China
   index: -1
 NationIcons/Egypt
   rotate: false
-  xy: 320, 544
+  xy: 212, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -936,42 +936,42 @@ NationIcons/England
   index: -1
 NationIcons/Ethiopia
   rotate: false
-  xy: 329, 436
+  xy: 221, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/France
   rotate: false
-  xy: 437, 436
+  xy: 428, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Gaul
   rotate: false
-  xy: 484, 700
+  xy: 584, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Georgia
   rotate: false
-  xy: 592, 700
+  xy: 484, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Germany
   rotate: false
-  xy: 692, 808
+  xy: 592, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Gran Colombia
   rotate: false
-  xy: 536, 592
+  xy: 700, 700
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1216,7 +1216,7 @@ NationIcons/Vietnam
   index: -1
 TileSets/FantasyHex/Units/Llanero
   rotate: false
-  xy: 212, 668
+  xy: 476, 932
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -1235,6 +1235,13 @@ TileSets/HexaRealm/Tiles/Chemamull
   orig: 32, 41
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Great Wall
+  rotate: false
+  xy: 212, 663
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Kurgan
   rotate: false
   xy: 484, 652
@@ -1244,28 +1251,28 @@ TileSets/HexaRealm/Tiles/Kurgan
   index: -1
 TileSets/HexaRealm/Tiles/Mekewap
   rotate: false
-  xy: 476, 932
+  xy: 544, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Nubian Pyramid
   rotate: false
-  xy: 544, 7
+  xy: 990, 1391
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Outback Station
   rotate: false
-  xy: 990, 1388
+  xy: 740, 1076
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Ziggurat
   rotate: false
-  xy: 740, 1076
+  xy: 740, 1028
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
@@ -1307,77 +1314,77 @@ UnitIcons/Carolean
   index: -1
 UnitIcons/Comandante General
   rotate: false
-  xy: 268, 652
+  xy: 1890, 1808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Conquistador
   rotate: false
-  xy: 376, 652
+  xy: 268, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Cossack
   rotate: false
-  xy: 740, 1124
+  xy: 640, 916
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Crouching Tiger
   rotate: false
-  xy: 956, 1136
+  xy: 848, 1136
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/De Zeven Provincien
   rotate: false
-  xy: 1008, 1544
+  xy: 1008, 1652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Digger
   rotate: false
-  xy: 990, 1436
+  xy: 1008, 1544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Domrey
   rotate: false
-  xy: 1116, 1704
+  xy: 990, 1436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Dromon
   rotate: false
-  xy: 1116, 1596
+  xy: 1116, 1704
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Eagle Warrior
   rotate: false
-  xy: 212, 544
+  xy: 1116, 1596
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Gaesatae
   rotate: false
-  xy: 476, 808
+  xy: 437, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Garde Imperiale
   rotate: false
-  xy: 584, 808
+  xy: 476, 808
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
