@@ -260,7 +260,7 @@
 		"outerColor": [205,0,1],
 		"innerColor": [255,255,255],
 		"uniqueName": "British Museum",
-		"uniques": ["[+100]% [Culture] from every [Hermitage]"],
+		"uniques": ["[+2 Culture] from every [Artist]"],
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
@@ -817,7 +817,7 @@
 	{
 		"name": "The Netherlands", 
 		"leaderName": "Wilhelmina",
-		"startBias": ["Coast","Grassland"],
+		"startBias": ["Coast"],
 		"adjective": ["Dutch"],
 		
 		"declaringWar": "The Netherlands does not fear you. When we defeat you, we will be stronger than ever.",
