@@ -31,8 +31,12 @@
 		"uniques": ["[+33]% Strength <vs [Melee] units>",],
 	},
 	{
-		"name": "[U-Boat] ability",
+		"name": "[U-boat] ability",
 		"uniques": ["[+1] Sight","[+33]% Strength <when fighting in [Ocean] tiles>"],
+	},
+	{
+		"name": "[Legion] ability",
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
 	},
 	{
 		"name": "[Cossack] ability",

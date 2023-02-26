@@ -21,8 +21,8 @@
 		"turnsToBuild": 7,
 		"uniques": ["[+1 Food] for each adjacent [Bonus resource]",
 				"[+2 Gold] for each adjacent [Luxury resource]",
-				"[+1 Production] <after discovering [Civil Service]>"
-				"[-1 Food] for each adjacent [Mekewap]"],
+				"[+1 Production] <after discovering [Civil Service]>",
+ 				"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mekewap] tiles>"],
 		"techRequired": "Pottery",
 		"shortcutKey": "M"
 	},
@@ -34,7 +34,7 @@
 		"turnsToBuild": 7,
 		"uniques": ["[+1 Faith] for each adjacent [Hill]",
 				"[+1 Faith] for each adjacent [Mountain]",
-				"[-1 Faith] for each adjacent [Rock-Hewn Church]"],
+ 				"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Rock-Hewn Church] tiles>"],
 		"techRequired": "Drama and Poetry",
 		"shortcutKey": "M"
 	},
@@ -79,7 +79,7 @@
 		"gold": 2,
 		"turnsToBuild": 7,
 		"uniques": ["[+2 Culture] for each adjacent [City center]",
-				"Consumes [1] [Iron]"],
+ 				"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Golf Course] tiles>"],
 		"techRequired": "Architecture",
 		"shortcutKey": "M"
 	},
@@ -115,8 +115,8 @@
 		"faith": 1,
 		"turnsToBuild": 7,
 		"uniques": ["[+1 Faith] for each adjacent [Pasture]",
-				"[-1 Gold] for each adjacent [Kurgan]"],
-		"techRequired": "Economics",
+ 				"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Kurgan] tiles>"],
+		"techRequired": "Animal Husbandry",
 		"shortcutKey": "M"
 	},
 {
@@ -132,7 +132,7 @@
 				"[+1 Science] for each adjacent [Academy]",
 				"[+1 Culture] for each adjacent [Landmark]",
 				"[+1 Faith] for each adjacent [Holy site]",
-				"[-1 Food] for each adjacent [Nubian Pyramid]"],
+ 				"Cannot be built on [Desert] tiles <with [1] to [6] neighboring [Nubian Pyramid] tiles>"],
 		"techRequired": "Masonry",
 		"shortcutKey": "M"
 	},
@@ -143,7 +143,7 @@
 		"culture": 2,
 		"faith": 2,
 		"turnsToBuild": 7,
-		"techRequired": "Calendar",
+		"techRequired": "Pottery",
 		"shortcutKey": "M"
 	},
 {

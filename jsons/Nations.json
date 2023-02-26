@@ -128,7 +128,7 @@
 		"name": "Byzantium",
 		"leaderName": "Basil II",
 		"adjective": ["Byzantine"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 	
 		"declaringWar": "You deserve nothing less than war, but in my abundant mercy, I will make it brief and decisive.",
 		"attacked": "I shall tell my historians to record your empire for the future, after I have ground your cities into the dust.",
@@ -248,7 +248,7 @@
 		"leaderName": "Victoria",
 		"adjective": ["English"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Scientific",
 		
 		"declaringWar": "As our protests are in vain, we hereby declare war.",
 		"attacked": "War? We are not amused.",
@@ -306,7 +306,7 @@
 		"innerColor": [251,236,127],
 		"uniqueName": "Grand Tour",
 		"uniques": [
-"[+20]% Production when constructing [All] wonders [in capital] <starting from the [Medieval era]> <before the [Modern era]>"
+"[+20]% Production when constructing [All] wonders [in all cities] <starting from the [Medieval era]> <before the [Modern era]>"
 "[+2 Culture] from every [Wonder]",
 ],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
