@@ -1216,7 +1216,7 @@ NationIcons/Vietnam
   index: -1
 TileSets/FantasyHex/Units/Llanero
   rotate: false
-  xy: 476, 932
+  xy: 544, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -1235,9 +1235,16 @@ TileSets/HexaRealm/Tiles/Chemamull
   orig: 32, 41
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Copacabana
+  rotate: false
+  xy: 212, 668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Great Wall
   rotate: false
-  xy: 212, 663
+  xy: 476, 927
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
@@ -1251,28 +1258,28 @@ TileSets/HexaRealm/Tiles/Kurgan
   index: -1
 TileSets/HexaRealm/Tiles/Mekewap
   rotate: false
-  xy: 544, 16
+  xy: 990, 1400
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Nubian Pyramid
   rotate: false
-  xy: 990, 1391
+  xy: 740, 1079
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Outback Station
   rotate: false
-  xy: 740, 1076
+  xy: 990, 1352
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Ziggurat
   rotate: false
-  xy: 740, 1028
+  xy: 1232, 1332
   size: 32, 40
   orig: 32, 40
   offset: 0, 0

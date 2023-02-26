@@ -581,7 +581,7 @@
 		"innerColor": [254,129,19],
 		"uniqueName": "Grand Barays", //Add CHOLOPHAL building for khmer
 		"uniques": [
-"[+6 Food] from every [Holy site] <in [River] tiles>",
+"[+4 Food] from every [Holy site] <in [River] tiles>",
 ],
 		"cities": ["Angkor Wat","Hariharalya","Yaodharapura","Mahendraparvata","Vimayapura","Indrapura","Lingapura","Preah Vihear","Bhavapura","Kompong Svay",
 			"Nagara Jayasri","Vyadhapura","Chaturmukha","Dviradapura","Rajavihara","Amarendrapura","Phanom Rung","Isvarapura","Muang Tam","Angkor Borei",

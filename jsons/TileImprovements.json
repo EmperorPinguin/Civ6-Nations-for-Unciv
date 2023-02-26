@@ -139,8 +139,9 @@
 		"uniqueTo": "Egypt",
 		"terrainsCanBeBuiltOn": ["Flood plains"],
 		"culture": 2,
-		"faith": 2,
+		"faith": 3,
 		"turnsToBuild": 7,
+		"uniques": ["[+1 Culture] <after discovering [Archaeology]>"],
 		"techRequired": "Pottery",
 		"shortcutKey": "M"
 	},
@@ -203,5 +204,17 @@
 		"uniques": ["Can only be built on [Coastal] tiles",
 				"[+1 Gold] for each adjacent [Coast]",
 				"[+1 Culture] for each adjacent [Jungle]",],
+	},
+{
+		"name": "Outback Station",
+		"uniqueTo": "Australia",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"uniques": ["[+1 Food] for each adjacent [Pasture]",
+				"[+1 Production] <after discovering [Replaceable Parts]>",
+ 				"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Outback Station] tiles>"],
+		"techRequired": "Guilds",
+		"shortcutKey": "M"
 	},
 ]

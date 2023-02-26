@@ -23,22 +23,6 @@
 		"requiredTech": "Education"
 	},
 {
-		"name": "Outback Station",
-            "replaces": "Stable",
-            "uniqueTo": "Australia",
-		"maintenance": 1,
-            "cost": 100,
-		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
-		"hurryCostModifier": 25,
-		"uniques": ["Unlocked at Guilds","[+15]% Production when constructing [Mounted] units [in this city]",
-			"[+1 Production] from [Cattle] tiles [in this city]",
-			"[+1 Production] from [Horses] tiles [in this city]",
-			"[+1 Production] from [Sheep] tiles [in this city]",
-                  "[+1 Food] from [Pasture] tiles [in this city]",
-                  "[+1 Production] from [Pasture] tiles [in this city] <after discovering [Steam Power]>"],
-		"requiredTech": "Guilds"
-	},
-{
 		"name": "Tlachtli",
 		"replaces": "Colosseum",
 		"uniqueTo": "The Aztec",
