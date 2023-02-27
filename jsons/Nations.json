@@ -380,10 +380,10 @@
 		"uniques": ["[+10]% Production when constructing [All] buildings [in all cities connected to capital]","+30% Strength when fighting City-State units and cities"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
-			"Munster","Rostok","Chemnitz","Braunschweig","Halle","M×¦nchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Münchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
 			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen",
 			"Osnabruck","Ludwingshafen","Leverkusen","Oldenburg","Neuss","Mulheim","Darmstadt","Herne","Wurzburg",
-			"Recklinghausen","G×¦ttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
+			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
 	},
 	{
 		"name": "Gran Colombia",
