@@ -54,6 +54,11 @@
 		"name": "Polder ability",
 		"uniques": ["Can construct [Polder]"],
 	},
+	{
+		"name": "Ejercito Patriota",
+		"uniques": ["[+1] Movement","Heal this unit by [10] HP <upon being promoted>"],
+	},
+
 
 
 

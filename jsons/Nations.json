@@ -402,7 +402,7 @@
 		"outerColor": [1,42,108],
 		"innerColor": [245,217,0],
 		"uniqueName": "Ejército Patriota",
-		"uniques": ["[+1] Movement <for [non-air] units>"],
+		"uniques": ["[{Military} {Land}] units gain the [Ejercito Patriota] promotion","[{Military} {Water}] units gain the [Ejercito Patriota] promotion"],
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
 			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",

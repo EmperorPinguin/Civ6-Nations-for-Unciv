@@ -404,14 +404,14 @@ BuildingIcons/Royal Navy Dockyard
   index: -1
 BuildingIcons/Electronics Factory
   rotate: false
-  xy: 112, 737
+  xy: 112, 629
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Film Studio
   rotate: false
-  xy: 112, 521
+  xy: 112, 413
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -670,40 +670,33 @@ NationIcons/England
   index: -1
 NationIcons/Ethiopia
   rotate: false
-  xy: 112, 629
+  xy: 112, 521
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/France
   rotate: false
-  xy: 112, 413
+  xy: 112, 305
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Gaul
   rotate: false
-  xy: 112, 89
+  xy: 212, 1131
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Georgia
   rotate: false
-  xy: 212, 1131
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Germany
-  rotate: false
   xy: 212, 1023
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Gran Colombia
+NationIcons/Germany
   rotate: false
   xy: 190, 915
   size: 100, 100
@@ -1125,14 +1118,14 @@ UnitIcons/Eagle Warrior
   index: -1
 UnitIcons/Gaesatae
   rotate: false
-  xy: 112, 305
+  xy: 112, 197
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Garde Imperiale
   rotate: false
-  xy: 112, 197
+  xy: 112, 89
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1448,6 +1441,20 @@ UnitIcons/Warrior Monk
 UnitIcons/Winged Hussar
   rotate: false
   xy: 800, 1295
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ejercito Patriota
+  rotate: false
+  xy: 112, 737
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Gran Colombia
+  rotate: false
+  xy: 112, 737
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
