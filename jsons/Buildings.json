@@ -129,17 +129,6 @@
 		"maintenance": 1,
 		"requiredTech": "Chivalry"
 	},
-{
-		"name": "Stepwell",
-		"replaces": "Water Mill",
-		"uniqueTo": "India",
-		"food": 2,
-		"production": 1,
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Can be build in all cities"],
-		"requiredTech": "The Wheel"
-	},
 	{
 		"name": "Electronics Factory",
 		"replaces": "Factory",
@@ -204,8 +193,8 @@
 		"uniqueTo": "The Maya",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"cost": 50,
-		"uniques": ["[+1 Science] from [Plantation] tiles [in this city]","[+1 Science] per [2] population [in this city]"],
+		"cost": 75,
+		"uniques": ["[+2 Science] from [Plantation] tiles [in this city]","[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Calendar"
 	},
 {
@@ -249,13 +238,13 @@
 		"name": "Cothon",
 		"replaces": "Lighthouse",
 		"uniqueTo": "Phoenicia",
-		"cost": 50,
+		"cost": 75,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
 			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]"
-			"[+25]% Production when constructing [Water] units [in this city]",
-			"[+25]% Production when constructing [Settler] units [in this city]"],
+			"[+50]% Production when constructing [Water] units [in this city]",
+			"[+50]% Production when constructing [Settler] units [in this city]"],
 		"requiredTech": "Optics"
 	},
 {

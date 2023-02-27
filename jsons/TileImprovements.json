@@ -217,4 +217,16 @@
 		"techRequired": "Guilds",
 		"shortcutKey": "M"
 	},
+{
+		"name": "Stepwell",
+		"uniqueTo": "India",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert"],
+		"turnsToBuild": 7,
+		"food": 1,
+		"techRequired": "Masonry",
+		"uniques": ["[+1 Food] <with [1] to [6] neighboring [Farm] tiles>",
+				"[+1 Faith] <with [1] to [6] neighboring [Holy site] tiles>",
+ 				"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Stepwell] tiles>"],
+		"shortcutKey": "O"
+	},
 ]

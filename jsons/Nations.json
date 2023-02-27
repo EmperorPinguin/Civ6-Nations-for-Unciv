@@ -90,7 +90,7 @@
 		"outerColor": [125,235,238],
 		"innerColor": [119,21,20],
 		"uniqueName": "Legend of the Five Suns",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]","[-25]% tile improvement construction time"],
+		"uniques": ["[+2] Happiness from each type of luxury resource"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
@@ -756,7 +756,7 @@
 		"innerColor": [2,79,80],
 		"uniqueName": "Mayab",
 		"uniques": [
-"[+2] Happiness from each type of luxury resource"
+"Provides a [Water Mill] in your first [4] cities for free <upon discovering [Theology]>"
 ],
 		"cities": ["Wak Kab'nal","Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul","Edzna",
 			"Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua","Q'umarkaj","Nakbe",

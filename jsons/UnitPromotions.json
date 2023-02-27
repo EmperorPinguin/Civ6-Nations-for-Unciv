@@ -5,7 +5,7 @@
 //	},
 	{
 		"name": "Killer of Cyrus",
-		"uniques": ["[+30]% Strength <vs [Wounded] units>","Heals [30] damage if it kills a unit"]
+		"uniques": ["[+33]% Strength <vs [Wounded] units> <when attacking>","Heals [30] damage if it kills a unit"]
 	},
 	{
 		"name": "Homeland Defender",
