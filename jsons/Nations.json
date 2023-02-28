@@ -555,9 +555,6 @@
 "[+1 Science] from every [Scientist]",
 "[+1 Culture] from every [Artist]",
 ],
-
-
-
 		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
 			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
 			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
@@ -581,7 +578,7 @@
 		"innerColor": [254,129,19],
 		"uniqueName": "Grand Barays", //Add CHOLOPHAL building for khmer
 		"uniques": [
-"[+4 Food] from every [Holy site] <in [River] tiles>",
+"[+6 Food] from every [Holy site] <in [River] tiles>",
 ],
 		"cities": ["Angkor Wat","Hariharalya","Yaodharapura","Mahendraparvata","Vimayapura","Indrapura","Lingapura","Preah Vihear","Bhavapura","Kompong Svay",
 			"Nagara Jayasri","Vyadhapura","Chaturmukha","Dviradapura","Rajavihara","Amarendrapura","Phanom Rung","Isvarapura","Muang Tam","Angkor Borei",
