@@ -906,8 +906,8 @@
 		"innerColor": [205,0,1],
 		"uniqueName": "Sartrapies",
 		"uniques": [
-"[+1 Happiness] [in puppeted cities]",
-"[+1 Happiness] [in annexed cities]",
+"[+25]% [Science] [in puppeted cities]",
+"[+25]% [Culture] [in puppeted cities]",
 "[-50]% maintenance on road & railroads"
 ],
 		"cities": ["Parsagadae","Persepolis","Susa","Ecbatana","Tarsus","Gordium","Bactra","Sardis","Ergili","Dariushkabir",
