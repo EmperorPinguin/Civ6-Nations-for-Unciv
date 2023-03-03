@@ -149,7 +149,7 @@
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["[-1] Sight","Must set up to ranged attack","Never appears as a Barbarian unit"],
+		"uniques": ["Must set up to ranged attack","Never appears as a Barbarian unit"],
 		"attackSound": "throw"
 	},
 {
