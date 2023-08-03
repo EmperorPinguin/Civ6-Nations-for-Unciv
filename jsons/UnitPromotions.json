@@ -52,7 +52,7 @@
 	},
 	{
 		"name": "Polder ability",
-		"uniques": ["Can construct [Polder]"],
+		"uniques": ["Can instantly construct [Polder] <by consuming this unit>"],
 	},
 	{
 		"name": "Ejercito Patriota",
