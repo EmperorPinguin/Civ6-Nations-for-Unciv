@@ -87,7 +87,7 @@
 		"cost": 375,
 		"requiredResource": "Oil",
 		"requiredTech": "Electronics",
-		"uniques": ["Never appears as a Barbarian unit","[50]% chance to intercept air attacks"],
+		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"upgradesTo": "Missile Cruiser",
 		"attackSound": "shipguns"
