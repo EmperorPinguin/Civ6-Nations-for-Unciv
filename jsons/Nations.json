@@ -472,9 +472,10 @@
 		"innerColor": [248,217,2],
 		"uniqueName": "Mit'a",
 		"uniques": [
-"[+1 Food, +1 Production] from every [Mountain] <with [1] to [1] neighboring [Terrace farm] tiles>",
-"[+2 Food, +2 Production] from every [Mountain] <with [2] to [2] neighboring [Terrace farm] tiles>",
-"[+3 Food, +3 Production] from every [Mountain] <with [3] to [6] neighboring [Terrace farm] tiles>",
+"[+2 Production] from every [Mountain] <in tiles without [Natural Wonder]>", 
+"[+1 Food]  from every [Mountain]  <in tiles without [Natural Wonder]> <with [1] to [1] neighboring [Terrace farm] tiles>",
+"[+2 Food] from every [Mountain]  <in tiles without [Natural Wonder]> <with [2] to [2] neighboring [Terrace farm] tiles>",
+"[+3 Food] from every [Mountain]  <in tiles without [Natural Wonder]> <with [3] to [6] neighboring [Terrace farm] tiles>",
 ],
 		"cities": ["Qusqu","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
 			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
@@ -500,7 +501,8 @@
 		"uniqueName": "Dharma",
 		"uniques": [
 "[+25]% Natural religion spread [in all cities]", 
-"[+1 Happiness] [in all cities in which the majority religion is a major religion]",
+"May choose [1] additional [Pantheon] beliefs when [Founding] a religion"
+,
 ],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
