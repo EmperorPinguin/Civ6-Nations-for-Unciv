@@ -304,7 +304,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Gran Colombia",
 		"replaces": "Great General",
-		"uniques": ["Can start an [8]-turn golden age","[+30]% Strength bonus for [Military] units within [1] tiles","May withdraw before melee ([100]%)","Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"uniques": ["Can start an [8]-turn golden age <by consuming this unit>","[+30]% Strength bonus for [Military] units within [1] tiles","May withdraw before melee ([100]%)","Can construct [Citadel] <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 4
 	},
 {
@@ -848,7 +848,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
-		"uniques": ["Can construct [Feitoria]","[+1] Sight", "May withdraw before melee ([80]%)"],
+		"uniques": ["Can construct [Feitoria] <by consuming this unit>","[+1] Sight", "May withdraw before melee ([80]%)"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
