@@ -601,7 +601,7 @@
 		"uniqueName": "Nkisi",
 		"uniques": [
 "May not generate great prophet equivalents naturally",
-"[+1 Food, +1 Production] [in all cities in which the majority religion is a major religion]",
+"[+1 Food, +1 Production, +1 Faith] [in all cities in which the majority religion is a major religion]",
 ]
 		"cities": ["Mbumbi","Mbamba","Mbwila","Mpinda","Kwila","Mbanza Mbata","Kinchassa","Kwango","Mbuji-Mayi","Mbanza Mpangu",
 			"Bakavu","Sanga","Katango","Mbanza Wembo","Mbanza Lovata","Nkunga","Nkondo","Lemba-Bula","Kibangu","Manga",
