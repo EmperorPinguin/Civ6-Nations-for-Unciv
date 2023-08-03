@@ -575,9 +575,9 @@
 		"tradeRequest": "Our delegation brings gits!",
 		"outerColor": [116,0,155],
 		"innerColor": [254,129,19],
-		"uniqueName": "Grand Barays", //Add CHOLOPHAL building for khmer
+		"uniqueName": "Grand Barays",
 		"uniques": [
-"[+6 Food] from every [Holy site] <in [River] tiles>",
+"[+6 Food] from every [Holy site] <in [River] tiles> <after enhancing a religion>",
 ],
 		"cities": ["Angkor Wat","Hariharalya","Yaodharapura","Mahendraparvata","Vimayapura","Indrapura","Lingapura","Preah Vihear","Bhavapura","Kompong Svay",
 			"Nagara Jayasri","Vyadhapura","Chaturmukha","Dviradapura","Rajavihara","Amarendrapura","Phanom Rung","Isvarapura","Muang Tam","Angkor Borei",
