@@ -451,7 +451,7 @@
 		"uniqueTo": "Kongo",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 16,
+		"strength": 15,
 		"cost": 90
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
