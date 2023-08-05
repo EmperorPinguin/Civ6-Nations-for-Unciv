@@ -30,7 +30,7 @@
 		"happiness": 2,
 		"culture": 1,
 		"faith": 2,
-            "cost": 90,
+		"cost": 90,
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
 	},
@@ -40,7 +40,7 @@
 		"uniqueTo": "Byzantium",
 		"maintenance": 1,
 		"happiness": 3,
-            "cost": 100,
+		"cost": 100,
 		"hurryCostModifier": 25,
 		"uniques": ["Provides [1] Horses"],
 		"requiredTech": "Construction"
@@ -60,7 +60,7 @@
 		"name": "Royal Navy Dockyard",
 		"replaces": "Harbor",
 		"uniqueTo": "England",
-		"cost": 90,
+		"cost": 100,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["All newly-trained [Water] units [in this city] receive the [Mobility I] promotion",
@@ -80,7 +80,7 @@
 		"requiredNearbyImprovedResources": ["Marble", "Stone"],
 		"maintenance": 1,
 		"hurryCostModifier": 0,
-		"uniques": ["[+2 Production] from [Quarry] tiles [in this city]"],
+		"uniques": ["Can be on Plains","[+2 Production] from [Quarry] tiles [in this city]"],
 		"requiredTech": "Masonry"
 	},
 {
@@ -100,7 +100,7 @@
 		"name": "Hansa",
 		"replaces": "Workshop",
 		"uniqueTo": "Germany",
-		"cost": 90,
+		"cost": 100,
 		"maintenance": 2,
 		"production": 4,
 		"specialistSlots": {"Engineer": 1},
