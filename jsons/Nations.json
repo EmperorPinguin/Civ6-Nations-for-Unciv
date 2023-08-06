@@ -1109,7 +1109,7 @@
 		"innerColor": [254,129,19],
 		"uniqueName": "Epic Quest",
 		"uniques": [
-"When conquering an encampment, earn [50] Gold and recruit a Barbarian unit <with [100]% chance>"
+"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [100]% chance>"
 ],
 		"cities": ["Uruk","Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab",
 			"Isin","Hamazi","Larak","Abu Salabikh","Umma","Larsa","Girsu","Jemdet Nasr","Nina","Kuara",
