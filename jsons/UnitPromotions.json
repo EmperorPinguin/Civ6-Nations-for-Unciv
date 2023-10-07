@@ -58,7 +58,7 @@
 */
 	{
 		"name": "Ejercito Patriota",
-		"uniques": ["[+1] Movement","Heal this unit by [10] HP <upon being promoted>"],
+		"uniques": ["[+1] Movement","Heal this unit by [50] HP <upon being promoted>"],
 	},
 
 
