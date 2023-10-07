@@ -304,7 +304,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Gran Colombia",
 		"replaces": "Great General",
-		"uniques": ["Empire enters a [8]-turn golden age <by consuming this unit>","[+30]% Strength bonus for [Military] units within [1] tiles","May withdraw before melee ([100]%)","Can instantly construct a [Citadel] improvemnt <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>","[+30]% Strength bonus for [Military] units within [1] tiles","May withdraw before melee ([100]%)","Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 4
 	},
 {
