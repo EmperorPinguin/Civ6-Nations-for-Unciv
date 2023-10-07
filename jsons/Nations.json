@@ -403,7 +403,7 @@
 		"outerColor": [1,42,108],
 		"innerColor": [245,217,0],
 		"uniqueName": "Ejército Patriota",
-		"uniques": ["[{Military} {Land}] units gain the [Ejercito Patriota] promotion","[{Military} {Water}] units gain the [Ejercito Patriota] promotion"],
+		"uniques": ["[{Military} {Land}] units gain the [Ejercito Patriota] promotion","[{Military} {Water}] units gain the [Ejercito Patriota] promotion", "(Heals +50 HP upon promoting, +1 Movement"],
 		"cities": ["Bogotá","Caracas","Quito","Valencia De Carabobo","Cali","Medellín","Maracaibo","Cumaná","Guayaquil","Panamá",
 			"Cartagena de Indias","Popayán","Cuenca","Barinas","Santa Marta","Loja","Angostura","Pasto","Nueva Barcelona","Neiva",
 			"Mérida","Portoviejo","Riobamba","Ibarra","Riohacha","Quibdó","Nueva Pamplona","Santiago de Veraguas","La Asunción","Achaguas",
@@ -1059,7 +1059,7 @@
 		"outerColor": [254,178,60],
 		"innerColor": [121,0,2],
 		"uniqueName": "People of the Steppe",
-		"uniques": ["[Mounted] units gain the [Killer of Cyrus] promotion"],
+		"uniques": ["[Mounted] units gain the [Killer of Cyrus] promotion", "(+33% Strength vs Wounded units, heals 30 HP upon killing a unit)"],
 		"cities": ["Pokrovka","Issyk","Kul Oba","Gelonus","Pazyryk","Chertomlyk","Neapolis","Kostromskaya","Myriv","Solokha","Malkop",
 			"Kamianka-Dniprovska","Tolstaya","Seven Brothers","Olbia","Kelermes","Solocha","Ulski","Arzhan","Elizavetovskaya","Melgunov",
 			"Panticapaeum","Tsarskaya","Ogüz","Tanais","Alexandropol","Kurdzhips","Tsymbalka","Theodosia","Kozei"]	
