@@ -1,4 +1,5 @@
 
+
 [
 
 	{
@@ -474,7 +475,7 @@
 		"uniqueName": "Mit'a",
 		"uniques": [
 "[+2 Production] from every [Mountain] <in tiles without [Natural Wonder]>", 
-"[+1 Food]  from every [Mountain] <in tiles without [Natural Wonder]> <with [1] to [1] neighboring [Terrace farm] tiles>",
+"[+1 Food] from every [Mountain] <in tiles without [Natural Wonder]> <with [1] to [1] neighboring [Terrace farm] tiles>",
 "[+2 Food] from every [Mountain] <in tiles without [Natural Wonder]> <with [2] to [2] neighboring [Terrace farm] tiles>",
 "[+3 Food] from every [Mountain] <in tiles without [Natural Wonder]> <with [3] to [6] neighboring [Terrace farm] tiles>",
 ],
