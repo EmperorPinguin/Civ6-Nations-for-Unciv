@@ -42,7 +42,7 @@
 		"happiness": 3,
 		"cost": 100,
 		"hurryCostModifier": 25,
-		"uniques": ["Provides [1] Horses"],
+		"uniques": ["Provides [1] [Horses]"],
 		"requiredTech": "Construction"
 	},
 {
